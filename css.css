@@ -1,3 +1,7 @@
 nav{
 text-align: center; color:black; background-color:white; width:auto; font-size:28px; border-style:ridge; border-width:4px; margin-bottom: 15px;
 }
+nav a:link { color: #3F2860; }
+nav a:visited { color: #497777; }
+ nav a:hover { color: #A26100; border: 3px inset #333333; 
+}
