@@ -11,14 +11,13 @@ aside { text-align:center;
 h1{
       text-align: center;
       color: black;
+       font-size: 120px;
+      text-transform: uppercase;
 }
-header{
+.div2 {
       background-image: url('https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN5cjZyZGNtdW8zcDFjY2R3OXJ0a3V2ZzhhY2F2M3Ywa2Q4anppNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7F0zSaC9ZHZC/giphy.gif');
       background-size: cover;
-        
-        text-transform: uppercase;
-        font-size: 120px;
-        margin: 10px 0;
+      margin: 10px 0;
 }
 p {
 font-size: 14px;
