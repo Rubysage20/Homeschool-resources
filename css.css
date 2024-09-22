@@ -19,4 +19,11 @@ h1{
         font-size: 120px;
         margin: 10px 0;
 }
+p {
+font-size: 14px;
+      text-align: left;
+      border-style: dashed;
+      border-color:pink;
+      border-weight: 2px;
+}
 
