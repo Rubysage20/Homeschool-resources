@@ -8,7 +8,7 @@ nav a:visited { color: #497777; }
 aside { text-align:center;
       }
 h1{
-      background-image: url(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN5cjZyZGNtdW8zcDFjY2R3OXJ0a3V2ZzhhY2F2M3Ywa2Q4anppNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7F0zSaC9ZHZC/giphy.gif);
+      background-image: url('https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN5cjZyZGNtdW8zcDFjY2R3OXJ0a3V2ZzhhY2F2M3Ywa2Q4anppNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7F0zSaC9ZHZC/giphy.gif');
       text-align: center;
       background-size: cover;
         color: transparent;
@@ -19,6 +19,7 @@ h1{
         margin: 10px 0;
 }
 body {
-      background-image: url(https://ibb.co/Y0qpc6Z);
+      background-image: url('https://ibb.co/Y0qpc6Z');
       bsckground-size:cover;
+      background-repeat: no-repeat;
 }
